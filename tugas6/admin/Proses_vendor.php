@@ -1,6 +1,6 @@
 <?php 
 // Include file koneksi database
-require_once 'dbkoneksi.php';
+require_once 'koneksi.php';
 
 // Ambil data dari form
 $_nomor = $_POST['nomor'];

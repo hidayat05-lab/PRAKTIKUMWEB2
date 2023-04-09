@@ -1,6 +1,6 @@
 <?php 
     // include database connection
-    require_once '../dbkoneksi.php';
+    require_once 'koneksi.php';
 ?>
 
 <?php 

@@ -1,6 +1,6 @@
 <?php
 $host = 'localhost';
-$db = 'db_koperasi1';
+$db = 'dbpos';
 $user = 'root';
 $pass = '';
 $charset = 'utf8mb4';
